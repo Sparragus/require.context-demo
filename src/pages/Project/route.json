@@ -1,0 +1,4 @@
+{
+  "name": "project",
+  "path": "/projects/:projectId"
+}
